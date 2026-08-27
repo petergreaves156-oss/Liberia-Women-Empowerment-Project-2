@@ -1,0 +1,6 @@
+{
+  "name": "Liberia Women Empowerment Project",
+  "description": "Official portal for the Liberia Women Empowerment Project (LWEP) under the Ministry of Gender, Children and Social Protection (MGCSP) in partnership with the World Bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

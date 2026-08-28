@@ -1,11 +1,11 @@
 import { ProjectComponent, CountyData, Story, NewsItem, ResourceDocument } from '../types';
 
 // Image imports
-import heroBannerImg from '../assets/images/lwep_hero_banner_1787791060038.jpg';
-import livelihoodsImg from '../assets/images/lwep_livelihoods_1787791077134.jpg';
-import educationImg from '../assets/images/lwep_education_1787791090423.jpg';
-import communityImg from '../assets/images/lwep_community_1787791103646.jpg';
-import ministerialImg from '../assets/images/lwep_ministerial_1787791116010.jpg';
+import heroBannerImg from '../assets/images/lwep_hero_banner_1787791060038.webp';
+import livelihoodsImg from '../assets/images/lwep_livelihoods_1787791077134.webp';
+import educationImg from '../assets/images/lwep_education_1787791090423.webp';
+import communityImg from '../assets/images/lwep_community_1787791103646.webp';
+import ministerialImg from '../assets/images/lwep_ministerial_1787791116010.webp';
 
 export const projectImages = {
   heroBanner: heroBannerImg,

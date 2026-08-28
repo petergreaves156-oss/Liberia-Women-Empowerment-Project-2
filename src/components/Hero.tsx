@@ -91,6 +91,9 @@ export default function Hero({ onExploreComponents, onOpenGrantCalculator }: Her
                   alt="Liberian women entrepreneurs and community leaders empowered by LWEP"
                   className="w-full h-80 sm:h-96 object-cover object-center"
                   referrerPolicy="no-referrer"
+                  loading="eager"
+                  fetchPriority="high"
+                  decoding="async"
                 />
 
                 {/* Overlay details */}

@@ -66,6 +66,8 @@ export default function SuccessStories() {
                     alt={story.name}
                     className="w-16 h-16 rounded-2xl object-cover border border-stone-200 shrink-0"
                     referrerPolicy="no-referrer"
+                    loading="lazy"
+                    decoding="async"
                   />
                   <div>
                     <h3 className="text-lg font-bold text-stone-900 font-['Outfit',sans-serif]">

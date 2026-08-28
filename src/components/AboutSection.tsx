@@ -146,6 +146,8 @@ export default function AboutSection() {
                   alt="MGCSP Ministerial Complex and LWEP Strategic Implementation Sessions"
                   className="w-full h-96 object-cover"
                   referrerPolicy="no-referrer"
+                  loading="lazy"
+                  decoding="async"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-stone-950/80 via-transparent to-transparent flex flex-col justify-end p-6 text-white">
                   <span className="text-xs uppercase font-bold tracking-wider text-amber-300">

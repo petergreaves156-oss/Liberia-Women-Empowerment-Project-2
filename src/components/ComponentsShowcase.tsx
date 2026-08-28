@@ -152,6 +152,8 @@ export default function ComponentsShowcase() {
                   alt={selectedComponent.title}
                   className="w-full h-80 sm:h-96 object-cover object-center"
                   referrerPolicy="no-referrer"
+                  loading="lazy"
+                  decoding="async"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-stone-950/70 via-transparent to-transparent flex flex-col justify-end p-5 text-white">
                   <span className="text-[10px] uppercase font-bold tracking-wider text-emerald-300">
